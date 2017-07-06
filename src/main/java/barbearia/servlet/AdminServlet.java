@@ -13,7 +13,7 @@ import barbearia.entity.Administrador;
 import barbearia.service.AdministradorService;
 
 
-@WebServlet({ "/login", "/logout", "/atualizarsenha", "/testeform"})
+@WebServlet({ "/login", "/logout", "/atualizarsenha", "/formstest"})
 public class AdminServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
