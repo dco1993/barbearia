@@ -15,11 +15,11 @@ public class PopulaConta {
 		admin1.setLogin("luispaulojr");
 		admin1.setSenha("123");
 		
-		admin2.setLogin("lpjr");
-		admin2.setSenha("123");
+//		admin2.setLogin("lpjr");
+//		admin2.setSenha("123");
 
-		admin3.setLogin("lpjunior");
-		admin3.setSenha("123");
+//		admin3.setLogin("lpjunior");
+//		admin3.setSenha("123");
 		AdministradorService as = new AdministradorService();
 //		admin = as.busca(Administrador.class, admin.getId());
 //		as.save(admin1);
